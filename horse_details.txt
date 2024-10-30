@@ -1,0 +1,30 @@
+Group A :
+Horse ID: 001, Horse Name: Blazer, Jockey Name: John Smith, Age: 3 years, Breed: Thoroughbred, Race Record: 2 wins in 7 races, Group: A
+Horse ID: 002, Horse Name: Red Comet, Jockey Name: Owen Williams, Age: 2 years, Breed: Standardbred, Race Record: 4 wins in 10 races, Group: A
+Horse ID: 003, Horse Name: Thunder Bolt, Jockey Name: Ginny Thompson, Age: 3 years, Breed: Arabian Horse, Race Record: 2 wins in 10 races, Group: A
+Horse ID: 004, Horse Name: Flash, Jockey Name: Jenny Wilson, Age: 4 years, Breed: Quarter Horse, Race Record: 0 wins in 5 races, Group: A
+Horse ID: 005, Horse Name: Star Dust, Jockey Name: Anthony Cooper, Age: 2 years, Breed: Arabian Horse, Race Record: 5 wins in 8 races, Group: A
+
+Group B :
+Horse ID: 006, Horse Name: Phoenix, Jockey Name: J.M. Swift, Age: 3 years, Breed: Arabian Horse, Race Record: 7 wins 10 races, Group: B
+Horse ID: 008, Horse Name: Gloss, Jockey Name: K.T. Vincent, Age: 2 years, Breed: Thoroughbred, Race Record: 7 wins in 12 races, Group: B
+Horse ID: 009, Horse Name: Indigo, Jockey Name: Julia Jones, Age: 4 years, Breed: Quarter Horse, Race Record: 10 wins in 15 races, Group: B
+Horse ID: 010, Horse Name: Turbo, Jockey Name: Jason Williams, Age: 3 years, Breed: Thoroughbred, Race Record: 5 wins in 11 races, Group: B
+Horse ID: 017, Horse Name: Winter Flower, Jockey Name: Hannah Hamilton, Age: 4 years, Breed: Arabian Horse, Race Record: 6 wins in 13 races, Group: B
+
+Group C :
+Horse ID: 011, Horse Name: Golden Dreamer, Jockey Name: Tessa Gray, Age: 2 years, Breed: Arabian Horse, Race Record: 2 wins in 7 races, Group: C
+Horse ID: 012, Horse Name: Rainbow Dash, Jockey Name: Hayley Carlile, Age: 4 years, Breed: Standardbred, Race Record: 7 wins in 20 races, Group: C
+Horse ID: 013, Horse Name: Pluto, Jockey Name: Timothy Anderson, Age: 2 years, Breed: Arabian Horse, Race Record: 8 wins in 13 races, Group: C
+Horse ID: 014, Horse Name: Hope Sprinter, Jockey Name: Jake Harris, Age: 3 years, Breed: Thoroughbred, Race Record: 2 wins in 7 races, Group: C
+Horse ID: 015, Horse Name: Crystal Snow, Jockey Name: Carlo Martinez, Age: 2 years, Breed: Standardbred, Race Record: 0 wins in 3 races, Group: C
+
+Group D :
+Horse ID: 007, Horse Name: Smoke Sprite, Jockey Name: J.K. Roberts, Age: 3 years, Breed: Thoroughbred, Race Record: 2 wins in 5 races, Group: D
+Horse ID: 016, Horse Name: Midnight Black, Jockey Name: Jessica Jackson, Age: 3 years, Breed: Standardbred, Race Record: 3 wins in 5 races, Group: D
+Horse ID: 018, Horse Name: Moonchild, Jockey Name: Emma Kim, Age: 2 years, Breed: Thoroughbred, Race Record: 4 wins in 5 races, Group: D
+Horse ID: 019, Horse Name: Summer Breeze, Jockey Name: R.J. Parker, Age: 4 years, Breed: Arabian Horse, Race Record: 8 wins in 9 races, Group: D
+Horse ID: 020, Horse Name: Jasmine, Jockey Name: Mia Guerra, Age: 3 years, Breed: Quarter Horse, Race Record: 8 wins in 15 races, Group: D
+
+
+
